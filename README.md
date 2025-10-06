@@ -19,3 +19,22 @@ sí, está arrancado...**
 ![FOTO2](CAPTURAS/2.png)
 
 ---
+
+# 3 - CREAR CONTENEDOR NOMBRE 'dam_alp1' ACCESO A ESTE
+
+**Creamos el contenedor dam_alp1, una vez creado, comprobamos que podemos acceder a el en cualquier momento.**   
+![FOTO3](CAPTURAS/3.png)
+
+---
+
+# 4 - COMPROBAR IP Y PING A GOOGLE.COM
+
+# 5 - CONTENEDOR NOMBRE 'dam_alp2' PING ENTRE CONTENEDORES
+
+# 6 - SALIR DEL TERMINAL
+
+# 7 - MEMORIA EN DISCO QUE SE OCUPÓ
+
+# 8 - CUÁNTA RAM OCUPAN LOS CONTENEDORES, COMANDO
+
+#
