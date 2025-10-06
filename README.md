@@ -1,4 +1,11 @@
-# 1 - DESCARGAR IMAGEN ALPINE Y COMPROBAR QUE ESTÁ EN EL EQUIPO
+# PRÁCTICA DOCKER 🐳: 
+![Docker](https://img.shields.io/docker/pulls/library/alpine?style=for-the-badge) ![Docker Image](https://img.shields.io/badge/image-alpine-lightgrey?style=for-the-badge) ![Docker Version](https://img.shields.io/badge/docker-v24.0-blue?style=for-the-badge)
+
+
+## 1 - DESCARGAR IMAGEN ALPINE Y COMPROBAR QUE ESTÁ EN EL EQUIPO ⚡
+
+**Consultamos la página oficial de docker para comprobar como es la instalación de la imagen alpine, con el comando docker pull alpine la imagen quedará
+instalada y con docker images comprobaremos que esto sea verídico**
 
 <br>
 
@@ -7,7 +14,7 @@
 ---
 
 
-# 2 - DESCARGAR CONTENEDOR SIN NOMBRE
+## 2 - DESCARGAR CONTENEDOR SIN NOMBRE 🖥️
 
 
 **El contenedor está arrancado mientras el usuario esté dentro de el, al salir el contenedor se detiene, en la captura se aprecia como
@@ -20,7 +27,7 @@ sí, está arrancado...**
 
 ---
 
-# 3 - CREAR CONTENEDOR NOMBRE 'dam_alp1' ACCESO A ESTE
+## 3 - CREAR CONTENEDOR NOMBRE 'dam_alp1' ACCESO A ESTE 💾
 
 **Creamos el contenedor dam_alp1, una vez creado, comprobamos que podemos acceder a el en cualquier momento.**
 
@@ -30,7 +37,7 @@ sí, está arrancado...**
 
 ---
 
-# 4 - COMPROBAR IP Y PING A GOOGLE.COM
+## 4 - COMPROBAR IP Y PING A GOOGLE.COM 📦
 
 **Para realizar este apartado deberemos instalar las ip utils ya que no las incluye la imagen por defecto, así podremos 
 ejecutar los comandos IP nesarios, una vez instalado el paquete comprobamos la conexión con google y mostramos la ip del contenedor.**
@@ -40,8 +47,8 @@ ejecutar los comandos IP nesarios, una vez instalado el paquete comprobamos la c
 ![FOTO4](CAPTURAS/4.png)
 
 ---
-
-# 5 - CONTENEDOR NOMBRE 'dam_alp2' PING ENTRE CONTENEDORES
+ 
+## 5 - CONTENEDOR NOMBRE 'dam_alp2' PING ENTRE CONTENEDORES 🖧
 
 **En este apartado deberemos de realizar los comandos usados anteriormente, primero crearemos el contenedor 
 con el nombre deseado, instalamos las ip utils y utilizamos el comando ping hacia la ip que se muestra en el apartado anterior
@@ -53,7 +60,7 @@ con el nombre deseado, instalamos las ip utils y utilizamos el comando ping haci
 
 ---
 
-# 6 - SALIR DEL TERMINAL
+## 6 - SALIR DEL TERMINAL ⛔
 
 **Al salir del contenedor este se detiene pero no se elimina, se puede comprobar el estado de los contenedores con el comando que se muestra en la imagen.**
 
@@ -63,7 +70,7 @@ con el nombre deseado, instalamos las ip utils y utilizamos el comando ping haci
 
 ---
 
-# 7 - MEMORIA EN DISCO QUE SE OCUPÓ
+## 7 - MEMORIA EN DISCO QUE SE OCUPÓ 📊
 
 **Para comprobar la memoria en disco deberemos de ejecutar el siguiente comando :**
 
@@ -72,7 +79,7 @@ con el nombre deseado, instalamos las ip utils y utilizamos el comando ping haci
 ![FOTO7](CAPTURAS/7.png)
 
 ---
-# 8 - CUÁNTA RAM OCUPAN LOS CONTENEDORES, COMANDO
+## 8 - CUÁNTA RAM OCUPAN LOS CONTENEDORES, COMANDO 📊
 
 **El comando para saber cuanta RAM ocupa un contenedor es; - docker stats 'nombre_contenedor' - **
 
