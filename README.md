@@ -43,6 +43,16 @@ ejecutar los comandos IP nesarios, una vez instalado el paquete comprobamos la c
 
 # 5 - CONTENEDOR NOMBRE 'dam_alp2' PING ENTRE CONTENEDORES
 
+**En este apartado deberemos de realizar los comandos usados anteriormente, primero crearemos el contenedor 
+con el nombre deseado, instalamos las ip utils y utilizamos el comando ping hacia la ip que se muestra en el apartado anterior
+( ip del contenedor alpine 1 )  comprobando así la conectividad entre contenedores.**
+
+<br>
+
+![FOTO5](CAPTURAS/5.png)
+
+---
+
 # 6 - SALIR DEL TERMINAL
 
 # 7 - MEMORIA EN DISCO QUE SE OCUPÓ
