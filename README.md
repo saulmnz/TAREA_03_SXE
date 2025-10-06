@@ -81,7 +81,7 @@ con el nombre deseado, instalamos las ip utils y utilizamos el comando ping haci
 ---
 ## 8 - CUÁNTA RAM OCUPAN LOS CONTENEDORES, COMANDO 📊
 
-- **El comando para saber cuanta RAM ocupa un contenedor es; - docker stats 'nombre_contenedor' - **
+- **El comando para saber cuanta RAM ocupa un contenedor es; - docker stats 'nombre_contenedor' -**
 
 <br>
 
