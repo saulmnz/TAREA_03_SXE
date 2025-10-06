@@ -55,6 +55,14 @@ con el nombre deseado, instalamos las ip utils y utilizamos el comando ping haci
 
 # 6 - SALIR DEL TERMINAL
 
+**Al salir del contenedor este se detiene pero no se elimina, se puede comprobar el estado de los contenedores con el comando que se muestra en la imagen.**
+
+<br>
+
+![FOTO6](CAPTURAS/6.png)
+
+---
+
 # 7 - MEMORIA EN DISCO QUE SE OCUPÓ
 
 # 8 - CUÁNTA RAM OCUPAN LOS CONTENEDORES, COMANDO
