@@ -22,12 +22,24 @@ sí, está arrancado...**
 
 # 3 - CREAR CONTENEDOR NOMBRE 'dam_alp1' ACCESO A ESTE
 
-**Creamos el contenedor dam_alp1, una vez creado, comprobamos que podemos acceder a el en cualquier momento.**   
+**Creamos el contenedor dam_alp1, una vez creado, comprobamos que podemos acceder a el en cualquier momento.**
+
+<br>
+
 ![FOTO3](CAPTURAS/3.png)
 
 ---
 
 # 4 - COMPROBAR IP Y PING A GOOGLE.COM
+
+**Para realizar este apartado deberemos instalar las ip utils ya que no las incluye la imagen por defecto, así podremos 
+ejecutar los comandos IP nesarios, una vez instalado el paquete comprobamos la conexión con google y mostramos la ip del contenedor.**
+
+<br>
+
+![FOTO4](CAPTURAS/4.png)
+
+---
 
 # 5 - CONTENEDOR NOMBRE 'dam_alp2' PING ENTRE CONTENEDORES
 
