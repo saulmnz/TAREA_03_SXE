@@ -65,6 +65,13 @@ con el nombre deseado, instalamos las ip utils y utilizamos el comando ping haci
 
 # 7 - MEMORIA EN DISCO QUE SE OCUPÓ
 
+**Para comprobar la memoria en disco deberemos de ejecutar el siguiente comando :**
+
+<br>
+
+![FOTO7](CAPTURAS/7.png)
+
+---
 # 8 - CUÁNTA RAM OCUPAN LOS CONTENEDORES, COMANDO
 
 #
